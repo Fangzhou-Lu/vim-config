@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/kissa/workspace/code/leveldb'
+let g:netrw_dirhist_3='/home/kissa/workspace/code/leveldb/db'
+let g:netrw_dirhist_2='/usr/share/nvim/runtime/tutor/en'
+let g:netrw_dirhist_1='/home/kissa/workspace/code/leveldb/util'
